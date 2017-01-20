@@ -1,2 +1,3 @@
-# study
-study directory
+-study
+--samples
+----io-model
